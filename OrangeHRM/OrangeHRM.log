@@ -1,0 +1,16 @@
+2019-11-03 13:52:31,603  INFO [main] ReadPropFile:19 - ********************Initialization of properties file********************
+2019-11-03 13:52:31,605  INFO [main] ReadPropFile:23 - ********************Loading of properties file********************
+2019-11-03 13:52:31,605  INFO [main] BaseClass:28 - ********************Initializing chrome browser********************
+2019-11-03 13:52:34,517  INFO [main] BaseClass:31 - ********************Initialized chrome browser********************
+2019-11-03 13:52:35,644  INFO [main] BaseClass:55 - ********************Window maximized********************
+2019-11-03 13:52:36,545  INFO [main] BaseClass:57 - ********************Deleted all cookies********************
+2019-11-03 13:52:36,554  INFO [main] BaseClass:60 - ********************URL pass to browser********************
+2019-11-03 13:52:39,427  INFO [main] ElementUtil:20 - ********************Created ElementUtil Object********************
+2019-11-03 13:52:39,427  INFO [main] ReadPropFile:19 - ********************Initialization of properties file********************
+2019-11-03 13:52:39,428  INFO [main] ReadPropFile:23 - ********************Loading of properties file********************
+2019-11-03 13:52:39,428  INFO [main] ReadPropFile:19 - ********************Initialization of properties file********************
+2019-11-03 13:52:39,428  INFO [main] ReadPropFile:23 - ********************Loading of properties file********************
+2019-11-03 13:52:41,346  INFO [main] ElementUtil:20 - ********************Created ElementUtil Object********************
+2019-11-03 13:52:43,471  INFO [main] ElementUtil:20 - ********************Created ElementUtil Object********************
+2019-11-03 13:52:43,471  INFO [main] DropDownHelper:19 - ********************Created DropDownHelper Object********************
+2019-11-03 13:52:44,316  INFO [main] DropDownHelper:36 - Selection using in dropdown by ESS
